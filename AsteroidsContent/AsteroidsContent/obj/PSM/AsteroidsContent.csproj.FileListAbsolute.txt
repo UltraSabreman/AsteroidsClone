@@ -1,0 +1,4 @@
+C:\Users\Andrey\documents\visual studio 2013\Projects\AsteroidsClone\AsteroidsContent\AsteroidsContent\bin\PSM\IgnoreMe.dll
+C:\Users\Andrey\documents\visual studio 2013\Projects\AsteroidsClone\AsteroidsContent\AsteroidsContent\obj\PSM\AsteroidsContent.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\documents\visual studio 2013\Projects\AsteroidsClone\AsteroidsContent\AsteroidsContent\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrey\documents\visual studio 2013\Projects\AsteroidsClone\AsteroidsContent\AsteroidsContent\obj\PSM\IgnoreMe.dll
