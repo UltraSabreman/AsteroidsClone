@@ -1,1 +1,1 @@
-C:\Users\Andrey\documents\visual studio 2013\Projects\AsteroidsClone\AsteroidsContent\AsteroidsContentContent\obj\PSM\AsteroidsContentContent.contentprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\AsteroidsClone\AsteroidsContent\AsteroidsContentContent\obj\PSM\AsteroidsContentContent.contentprojResolveAssemblyReference.cache

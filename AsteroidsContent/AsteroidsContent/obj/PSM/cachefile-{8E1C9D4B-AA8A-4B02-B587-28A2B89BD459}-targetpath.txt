@@ -1,0 +1,2 @@
+Content\Test\player.xnb
+Content\Test\player.png
